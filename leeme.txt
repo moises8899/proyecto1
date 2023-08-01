@@ -1,0 +1,1 @@
+Cuando hay un archivo de este tipo es conveniente leerlo ya que suele tener información importante.
